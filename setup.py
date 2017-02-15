@@ -4,7 +4,9 @@ from setuptools import setup
 
 setup(
     name = 'qqbot',
+
     version = '1.5',
+    
     py_modules = ['qqbot'],
     entry_points = {
         'console_scripts': [
